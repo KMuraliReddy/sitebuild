@@ -1,4 +1,5 @@
 <?php
+$page_title= 'Catalog';
 require_once('views/page_top.php');
 ?>
 <main>
